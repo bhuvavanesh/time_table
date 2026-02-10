@@ -124,7 +124,8 @@ Execute the program using runserver command.
 # OUTPUT
 
 
-<img width="1045" height="781" alt="Untitled" src="https://github.com/user-attachments/assets/b3531388-b84e-4db4-91dd-4534e20f8a1a" />
+
+![Uploading Untitled.png…]()
 
 
 # RESULT
