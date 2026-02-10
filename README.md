@@ -124,8 +124,9 @@ Execute the program using runserver command.
 # OUTPUT
 
 
-
 ![Uploading Untitled.png…]()
+
+
 
 
 # RESULT
